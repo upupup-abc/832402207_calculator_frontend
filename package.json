@@ -1,0 +1,25 @@
+{
+  "name": "calculator-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "前后端分离计算器系统 —— 前端单页应用（原生 HTML / CSS / ES Module，零第三方依赖）",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "node serve.mjs",
+    "start": "node serve.mjs",
+    "dev:8080": "node serve.mjs 8080"
+  },
+  "keywords": [
+    "calculator",
+    "frontend",
+    "vanilla-js",
+    "frontend-backend-separation"
+  ],
+  "author": "Zhijun Chen (832402207)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

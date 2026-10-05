@@ -1,0 +1,16 @@
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+npm-debug.log*
+
+# 依赖目录（本项目前端零依赖，这里只是防止误提交）
+node_modules/
+
+# 环境变量文件
+.env
+.env.local
